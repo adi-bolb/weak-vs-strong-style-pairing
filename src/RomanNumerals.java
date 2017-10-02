@@ -15,19 +15,18 @@ public class RomanNumerals {
 
     @Test
     public void addingIAndIShouldResultInII(){
-        String expected = "II";
-
-        String actual = new RomanAddition().add("I", "I");
-
-        assertEquals(expected,actual);
+        assertRomanAddition("I", "I", "II");
     }
 
     @Test
     public void addingIAndIIShouldResultInIII(){
-        String expected = "III";
-
-        String actual = new RomanAddition().add("I", "II");
-
-        assertEquals(expected, actual);
+        assertRomanAddition("I", "II", "III");
     }
+
+    private void assertRomanAddition(String first, String plus, String equals) {
+        String actual = new RomanAddition().add(first, plus);
+
+        assertEquals(equals, actual);
+    }
+
 }
