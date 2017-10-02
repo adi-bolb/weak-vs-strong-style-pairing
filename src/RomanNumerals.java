@@ -13,6 +13,20 @@ public class RomanNumerals {
     // Program roman numeral addition, without allowing to
     // convert to numbers in between.
 
+    // Observations about Traditional Pairing
+    //
+    // Navigator helps when:
+    // * Driver makes mistake
+    // * Driver can make things simpler
+    //
+    // It is quiet
+    // It gets louder when we're stuck
+    //
+    // With remote paring is difficult to stay engaged
+    // Changing typing is a good option, but it's harder to change
+    //
+    // The driver needs to explain what they are doing
+
     @Test
     public void addingIAndIShouldResultInII(){
         assertRomanAddition("I", "I", "II");
