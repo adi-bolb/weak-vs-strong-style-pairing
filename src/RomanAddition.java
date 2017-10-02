@@ -1,12 +1,12 @@
 public class RomanAddition {
     public String add(String term, String secondTerm){
-        String total = term + expand(secondTerm);
+        String total = expand(term) + expand(secondTerm);
 
         return reduce(total);
     }
 
-    private String expand(String secondTerm) {
-        return secondTerm.replaceAll("IV", "IIII");
+    private String expand(String term) {
+        return term.replaceAll("IV", "IIII");
     }
 
     private String reduce(String total) {

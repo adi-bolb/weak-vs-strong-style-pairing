@@ -59,10 +59,13 @@ public class RomanNumerals {
         assertRomanAddition("I", "IV", "V");
     }
 
+
     private void assertRomanAddition(String first, String plus, String equals) {
         String actual = new RomanAddition().add(first, plus);
-
         assertEquals(equals, actual);
+
+        String actualReversed = new RomanAddition().add(plus, first);
+        assertEquals(equals, actualReversed);
     }
 
 }

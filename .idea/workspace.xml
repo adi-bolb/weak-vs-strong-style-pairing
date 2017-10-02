@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RomanNumerals.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RomanNumerals.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RomanNumerals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+            <state relative-caret-position="223">
+              <caret line="63" column="61" lean-forward="false" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1000#1001#0" expanded="true" />
@@ -37,16 +37,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RomanAddition.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RomanAddition.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RomanAddition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+            <state relative-caret-position="294">
+              <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
               <folding>
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -280,20 +280,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506926576673</updated>
-      <workItem from="1506926586086" duration="3745000" />
+      <workItem from="1506926586086" duration="3995000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test - 2017.10.02 at 10h 17m 32s.xml">
-      <configuration name="Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test - 2017.10.02 at 10h 18m 33s.xml">
-      <configuration name="Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test - 2017.10.02 at 10h 24m 54s.xml">
-      <configuration name="Test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Test - 2017.10.02 at 10h 38m 30s.xml">
       <configuration name="Test" configurationId="JUnit" />
     </history-entry>
@@ -315,9 +306,18 @@
     <history-entry file="Test - 2017.10.02 at 10h 49m 15s.xml">
       <configuration name="Test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Test - 2017.10.02 at 10h 51m 02s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2017.10.02 at 10h 52m 45s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2017.10.02 at 10h 53m 38s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3745000" />
+    <option name="totallyTimeSpent" value="3995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1922" height="1092" extended-state="6" />
@@ -363,23 +363,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RomanAddition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RomanNumerals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="58" column="36" lean-forward="false" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+        <state relative-caret-position="223">
+          <caret line="63" column="61" lean-forward="false" selection-start-line="63" selection-start-column="61" selection-end-line="63" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1000#1001#0" expanded="true" />
@@ -392,6 +379,19 @@
             <element signature="e#1390#1391#0" expanded="true" />
             <element signature="e#1448#1449#0" expanded="true" />
             <element signature="e#1499#1500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RomanAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
           </folding>
         </state>
       </provider>
