@@ -43,6 +43,11 @@ public class RomanNumerals {
         assertRomanAddition("I", "II", "III");
     }
 
+    @Test
+    public void addingIIAndIIShouldResultInIV(){
+        assertRomanAddition("II", "II", "IV");
+    }
+
     private void assertRomanAddition(String first, String plus, String equals) {
         String actual = new RomanAddition().add(first, plus);
 
