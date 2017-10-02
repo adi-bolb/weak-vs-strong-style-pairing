@@ -8,14 +8,15 @@ public class RomanAddition {
     }
 
     private String combine(String expandFirst, String expandSecond) {
-        // Add the V's
-        // Add the I's
+        String[] symbols = {"V", "I"};
 
         String result = "";
-        result += expandFirst.replaceAll("[^V]", "");
-        result += expandSecond.replaceAll("[^V]", "");
-        result += expandFirst.replaceAll("[^I]", "");
-        result += expandSecond.replaceAll("[^I]", "");
+        for (String symbol:symbols) {
+            String withEmpty = "";
+            String anythingBut = "[^" + symbol + "]";
+            result += expandFirst.replaceAll(anythingBut, withEmpty);
+            result += expandSecond.replaceAll(anythingBut, withEmpty);
+        }
         return result;
     }
 
