@@ -31,7 +31,8 @@ public class RomanNumerals {
     // Strong Style Pairing
     //
     // Talk in intention, then location, then details
-    //
+    // Navigator will use the time while the Driver is doing something to
+    // understand what to do next.
 
     @Test
     public void addingIAndIShouldResultInII(){
@@ -46,6 +47,11 @@ public class RomanNumerals {
     @Test
     public void addingIIAndIIShouldResultInIV(){
         assertRomanAddition("II", "II", "IV");
+    }
+
+    @Test
+    public void addingIIAndIIIShouldResultInV(){
+        assertRomanAddition("II", "III", "V");
     }
 
     private void assertRomanAddition(String first, String plus, String equals) {
