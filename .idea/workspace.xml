@@ -17,14 +17,14 @@
       <file leaf-file-name="RomanNumerals.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RomanNumerals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="27" column="54" lean-forward="false" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+            <state relative-caret-position="116">
+              <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#851#852#0" expanded="true" />
-                <element signature="e#911#912#0" expanded="true" />
-                <element signature="e#964#965#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+                <element signature="e#949#950#0" expanded="true" />
+                <element signature="e#1009#1010#0" expanded="true" />
+                <element signature="e#1062#1063#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -271,7 +271,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506926576673</updated>
-      <workItem from="1506926586086" duration="2610000" />
+      <workItem from="1506926586086" duration="2981000" />
     </task>
     <servers />
   </component>
@@ -296,7 +296,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2610000" />
+    <option name="totallyTimeSpent" value="2981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1922" height="1092" extended-state="6" />
@@ -355,14 +355,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RomanNumerals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="27" column="54" lean-forward="false" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+        <state relative-caret-position="116">
+          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -27,6 +27,12 @@ public class RomanNumerals {
     //
     // The driver needs to explain what they are doing
 
+
+    // Strong Style Pairing
+    //
+    // Talk in intention, then location, then details
+    //
+
     @Test
     public void addingIAndIShouldResultInII(){
         assertRomanAddition("I", "I", "II");
