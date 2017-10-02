@@ -21,4 +21,13 @@ public class RomanNumerals {
 
         assertEquals(expected,actual);
     }
+
+    @Test
+    public void addingIAndIIShouldResultInIII(){
+        String expected = "III";
+
+        String actual = new RomanAddition().add("I", "II");
+
+        assertEquals(expected, actual);
+    }
 }
